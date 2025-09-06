@@ -17,7 +17,8 @@ repository = EventsRepository.new(REPO_DIR, gateway, RandomDelayer.new(500, 2500
 
 html = gateway.get("/learn-woodworking")
 sbwi_events = SbwiEvents.new(html, repository)
+events = sbwi_events.events
 
-combined_event = Event.from_events(sbwi_events.events)
+combined_event = Event.from_events(events)
 
 puts combined_event.ical
