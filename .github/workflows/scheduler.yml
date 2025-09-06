@@ -22,7 +22,7 @@ jobs:
       run: bundle install
 
     - name: Fetch events
-      run: bundle exec ruby fetch-events.rb
+      run: bundle exec ruby fetch-events.rb > all-events.ical
 
     - name: Commit and push changes
       run: |
