@@ -1,475 +1,321 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:66f70a726c06e93e8b4088af@squarespace.com
-DTSTAMP:20250902T200007Z
-DTSTART:20250905T140000Z
-DTEND:20250905T180000Z
-SUMMARY:Sharpening Edge Tools - 1 spot left!
-GEO:41.916901;-84.028829
-LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
- , 49221\, United States
-END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
-BEGIN:VEVENT
-UID:66e090a70202e82d5e998850@squarespace.com
 DTSTAMP:20250806T171642Z
+UID:66e090a70202e82d5e998850@squarespace.com
 DTSTART:20250906T130000Z
 DTEND:20250907T200000Z
-SUMMARY:Intro to Woodturning - FULL
 GEO:41.916771;-84.028924
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Intro to Woodturning - FULL
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:66f70b08e6d8241539fc06d1@squarespace.com
 DTSTAMP:20250902T200424Z
+UID:66f70b08e6d8241539fc06d1@squarespace.com
 DTSTART:20250907T140000Z
 DTEND:20250907T200000Z
-SUMMARY:Hand Plane Restoration - 1 spot left!
 GEO:41.916901;-84.028829
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Hand Plane Restoration - 1 spot left!
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:66e8696a42e4f04db2f6639b@squarespace.com
 DTSTAMP:20250821T121637Z
+UID:66e8696a42e4f04db2f6639b@squarespace.com
 DTSTART:20250908T120000Z
 DTEND:20250914T210000Z
-SUMMARY:Windsor Continuous Arm Chair - 1 spot left!
 GEO:41.916835;-84.028924
 LOCATION:Sam Beauford Woodshop\, 1375 N Main St\, Adrian\, MI\, 49221\, Uni
  ted States
+SUMMARY:Windsor Continuous Arm Chair - 1 spot left!
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:68936d473d76fd426a3d4b52@squarespace.com
 DTSTAMP:20250904T164603Z
+UID:68936d473d76fd426a3d4b52@squarespace.com
 DTSTART:20250913T130000Z
 DTEND:20250914T200000Z
-SUMMARY:Intro to Woodturning - 1 spot left!
 GEO:41.916771;-84.028924
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Intro to Woodturning - 1 spot left!
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:656dedcefd8dad3efacba78b@squarespace.com
 DTSTAMP:20250721T175021Z
+UID:656dedcefd8dad3efacba78b@squarespace.com
 DTSTART:20250919T130000Z
 DTEND:20250921T210000Z
-SUMMARY:Introduction to Timber Frame Engineering: Design/Make/Break
 GEO:41.916803;-84.029052
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Introduction to Timber Frame Engineering: Design/Make/Break
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:66f70db22b399c5d5ac99069@squarespace.com
 DTSTAMP:20250722T160047Z
+UID:66f70db22b399c5d5ac99069@squarespace.com
 DTSTART:20250922T120000Z
 DTEND:20250927T210000Z
-SUMMARY:Timber Framing
 GEO:41.916484;-84.028795
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Timber Framing
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:68681725a2cc5c08801fa8f1@squarespace.com
 DTSTAMP:20250722T173927Z
+UID:68681725a2cc5c08801fa8f1@squarespace.com
 DTSTART:20250927T130000Z
 DTEND:20250927T200000Z
-SUMMARY:Turning Finials and Ornaments
 GEO:41.916771;-84.028924
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Turning Finials and Ornaments
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:67f572d52ec5c920be4311a6@squarespace.com
 DTSTAMP:20250826T193309Z
+UID:67f572d52ec5c920be4311a6@squarespace.com
 DTSTART:20250927T140000Z
 DTEND:20250927T200000Z
-SUMMARY:Upholstery Basics: Wrap and Staple Essentials - FULL
 GEO:41.916901;-84.028829
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Upholstery Basics: Wrap and Staple Essentials - FULL
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:685dab4e6b8f4a7fb45ecf78@squarespace.com
 DTSTAMP:20250709T201756Z
+UID:685dab4e6b8f4a7fb45ecf78@squarespace.com
 DTSTART:20250928T130000Z
 DTEND:20250928T200000Z
-SUMMARY:Intermediate Bowl Turning
 GEO:41.916771;-84.028924
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Intermediate Bowl Turning
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:64b025fbe9bb5d0b2c3cbc6b@squarespace.com
 DTSTAMP:20250904T160619Z
+UID:64b025fbe9bb5d0b2c3cbc6b@squarespace.com
 DTSTART:20251011T130000Z
 DTEND:20251011T210000Z
-SUMMARY:Women: Woodshop Safety - 5 spots left!
 GEO:41.916844;-84.029082
 LOCATION:Sam Beauford Woodshop\, 1375 N. Main St.\, Adrian\, United States
+SUMMARY:Women: Woodshop Safety - 5 spots left!
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:65e779f101c622634c19fa4f@squarespace.com
 DTSTAMP:20250804T132224Z
+UID:65e779f101c622634c19fa4f@squarespace.com
 DTSTART:20251011T140000Z
 DTEND:20251011T190000Z
-SUMMARY:Comprehensive Lumber Grading with Bob Vogel 
 GEO:41.916356;-84.029052
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Comprehensive Lumber Grading with Bob Vogel 
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:67f9abaff6f29607f056f3cf@squarespace.com
 DTSTAMP:20250904T130918Z
+UID:67f9abaff6f29607f056f3cf@squarespace.com
 DTSTART:20251012T120000Z
 DTEND:20251012T210000Z
-SUMMARY:Cutting Board Class - 4 spots left!
 GEO:41.916708;-84.028988
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Cutting Board Class - 4 spots left!
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:66e866a7e7d8933307f0e11c@squarespace.com
 DTSTAMP:20250730T183611Z
+UID:66e866a7e7d8933307f0e11c@squarespace.com
 DTSTART:20251020T120000Z
 DTEND:20251024T210000Z
-SUMMARY:Balloon Back or Fan Back Windsor Side Chair
 GEO:41.916516;-84.029009
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Balloon Back or Fan Back Windsor Side Chair
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:685dad10702f925dd0ff8fdc@squarespace.com
 DTSTAMP:20250806T171729Z
+UID:685dad10702f925dd0ff8fdc@squarespace.com
 DTSTART:20251025T130000Z
 DTEND:20251026T200000Z
-SUMMARY:Intro to Woodturning - FULL
 GEO:41.916771;-84.028924
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Intro to Woodturning - FULL
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:68a35a79a8d9e2013839c57b@squarespace.com
 DTSTAMP:20250903T130223Z
+UID:68a35a79a8d9e2013839c57b@squarespace.com
 DTSTART:20251025T140000Z
 DTEND:20251025T200000Z
-SUMMARY:Upholstery Basics: Wrap and Staple Essentials - 1 spot left!
 GEO:41.916901;-84.028829
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Upholstery Basics: Wrap and Staple Essentials - 1 spot left!
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:67632058eb9b2a08651d7b04@squarespace.com
 DTSTAMP:20250804T132253Z
+UID:67632058eb9b2a08651d7b04@squarespace.com
 DTSTART:20251026T140000Z
 DTEND:20251026T200000Z
-SUMMARY:Finishing Basics
 GEO:41.916901;-84.028829
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Finishing Basics
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:67f9ad7dd06155250efe58ff@squarespace.com
 DTSTAMP:20250903T183121Z
+UID:67f9ad7dd06155250efe58ff@squarespace.com
 DTSTART:20251108T130000Z
 DTEND:20251109T220000Z
-SUMMARY:End Grain Butcher Block Cutting Board - FULL
 GEO:41.916931;-84.029009
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:End Grain Butcher Block Cutting Board - FULL
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:680bbc4fbfd3ec5b5195e9c7@squarespace.com
 DTSTAMP:20250709T202049Z
+UID:680bbc4fbfd3ec5b5195e9c7@squarespace.com
 DTSTART:20251108T140000Z
 DTEND:20251108T220000Z
-SUMMARY:Shaker Oval Boxes
 GEO:41.91674;-84.028967
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Shaker Oval Boxes
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:6877afa53a9e9d33cb5dff6f@squarespace.com
 DTSTAMP:20250716T142732Z
+UID:6877afa53a9e9d33cb5dff6f@squarespace.com
 DTSTART:20251109T140000Z
 DTEND:20251109T200000Z
-SUMMARY:Scroll Saw Ornaments
 GEO:41.916612;-84.029052
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Scroll Saw Ornaments
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:686d44d701fa7f6c85908df4@squarespace.com
 DTSTAMP:20250829T184641Z
+UID:686d44d701fa7f6c85908df4@squarespace.com
 DTSTART:20251122T130000Z
 DTEND:20251123T220000Z
-SUMMARY:Farm House Table
 GEO:41.916995;-84.028838
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Farm House Table
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:67f9af3bf3c55128b8dfe8d2@squarespace.com
 DTSTAMP:20250812T150650Z
+UID:67f9af3bf3c55128b8dfe8d2@squarespace.com
 DTSTART:20251122T140000Z
 DTEND:20251123T220000Z
-SUMMARY:Learn Dovetail Joinery - FULL
 GEO:41.916844;-84.029082
 LOCATION:Sam Beauford Woodshop\, 1375 N. Main St.\, Adrian\, United States
+SUMMARY:Learn Dovetail Joinery - FULL
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:68810babbe644e6b1917e731@squarespace.com
 DTSTAMP:20250725T195349Z
+UID:68810babbe644e6b1917e731@squarespace.com
 DTSTART:20251208T130000Z
 DTEND:20251214T230000Z
-SUMMARY:Modern Windsor Rocking Chair - 3 spots left! 
 GEO:41.916787;-84.029009
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Modern Windsor Rocking Chair - 3 spots left! 
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:67f9b7d3e146d97ef4147a13@squarespace.com
 DTSTAMP:20250709T202137Z
+UID:67f9b7d3e146d97ef4147a13@squarespace.com
 DTSTART:20251213T130000Z
 DTEND:20251214T220000Z
-SUMMARY:MCM Funky Footstool Workshop
 GEO:41.916803;-84.028967
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:MCM Funky Footstool Workshop
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:689b4b7645946e573ac71d6d@squarespace.com
 DTSTAMP:20250812T142502Z
+UID:689b4b7645946e573ac71d6d@squarespace.com
 DTSTART:20251220T140000Z
 DTEND:20251221T220000Z
-SUMMARY:Learn Dovetail Joinery
 GEO:41.916844;-84.029082
 LOCATION:Sam Beauford Woodshop\, 1375 N. Main St.\, Adrian\, United States
+SUMMARY:Learn Dovetail Joinery
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:67fd5e2405616004e824cba6@squarespace.com
 DTSTAMP:20250709T202159Z
+UID:67fd5e2405616004e824cba6@squarespace.com
 DTSTART:20251220T150000Z
 DTEND:20251220T210000Z
-SUMMARY:Woodshop Safety for Teens
 GEO:41.916844;-84.028674
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Woodshop Safety for Teens
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:6824ba5f0080ba2b3504f18b@squarespace.com
 DTSTAMP:20250709T202239Z
+UID:6824ba5f0080ba2b3504f18b@squarespace.com
 DTSTART:20260608T120000Z
 DTEND:20260612T210000Z
-SUMMARY:Smooth Abstract Sculpture Carving with Mike Sasaki
 GEO:41.916803;-84.028967
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Smooth Abstract Sculpture Carving with Mike Sasaki
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:679a80f65b4f633ad1695658@squarespace.com
 DTSTAMP:20250814T142400Z
+UID:679a80f65b4f633ad1695658@squarespace.com
 DTSTART:20260907T120000Z
 DTEND:20260912T210000Z
-SUMMARY:The Art &amp\; Craft of Axes
 GEO:41.916484;-84.028795
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:The Art &amp\; Craft of Axes
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:679a8783b5beab2282e90c38@squarespace.com
 DTSTAMP:20250814T142315Z
+UID:679a8783b5beab2282e90c38@squarespace.com
 DTSTART:20260914T120000Z
 DTEND:20260919T210000Z
-SUMMARY:Hand Tool Timber Framing: Build a Cabin
 GEO:41.916484;-84.028795
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Hand Tool Timber Framing: Build a Cabin
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:679a8fd6eb37c618a25902fe@squarespace.com
 DTSTAMP:20250829T185238Z
+UID:679a8fd6eb37c618a25902fe@squarespace.com
 DTSTART:20260921T120000Z
 DTEND:20260926T210000Z
-SUMMARY:Riving\, Shingling\, and Siding a Timber Frame Cabin
 GEO:41.916484;-84.028795
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Riving\, Shingling\, and Siding a Timber Frame Cabin
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:66f70764b95e8b71a9b09df7@squarespace.com
+DTSTAMP:20250902T200007Z
+UID:66f70a726c06e93e8b4088af@squarespace.com
+DTSTART:20250905T140000Z
+DTEND:20250905T180000Z
+GEO:41.916901;-84.028829
+LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
+ , 49221\, United States
+SUMMARY:Sharpening Edge Tools - 1 spot left!
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250812T150543Z
+UID:66f70764b95e8b71a9b09df7@squarespace.com
 DTSTART:20250830T130000Z
 DTEND:20250831T210000Z
-SUMMARY:Learn Dovetail Joinery - FULL
 GEO:41.916844;-84.029082
 LOCATION:Sam Beauford Woodshop\, 1375 N. Main St.\, Adrian\, United States
+SUMMARY:Learn Dovetail Joinery - FULL
 END:VEVENT
-END:VCALENDAR
-
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 BEGIN:VEVENT
-UID:66f7065ab3d1ac363a4bd91d@squarespace.com
 DTSTAMP:20250828T172051Z
+UID:66f7065ab3d1ac363a4bd91d@squarespace.com
 DTSTART:20250830T130000Z
 DTEND:20250831T200000Z
-SUMMARY:Band Saw Box Class - FULL
 GEO:41.916771;-84.028967
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
+SUMMARY:Band Saw Box Class - FULL
 END:VEVENT
 END:VCALENDAR
