@@ -8,8 +8,12 @@ class Event
     @url = url
   end
 
+  def parsed
+    Icalendar::Parser.new(ical).parse.first
+  end
+
   def self.from_events(events)
-    icals = events.reject { |event| event.is_a?(UnfetchableEvent) }.map(&:ical).map { |text| Icalendar::Parser.new(text).parse.first }
+    icals = events.reject { |event| event.is_a?(UnfetchableEvent) }.map(&:parsed)
 
     representative_ical = icals.first
 
