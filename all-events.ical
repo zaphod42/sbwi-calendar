@@ -3,26 +3,6 @@ VERSION:2.0
 PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250821T121637Z
-UID:66e8696a42e4f04db2f6639b@squarespace.com
-DTSTART:20250908T120000Z
-DTEND:20250914T210000Z
-GEO:41.916835;-84.028924
-LOCATION:Sam Beauford Woodshop\, 1375 N Main St\, Adrian\, MI\, 49221\, Uni
- ted States
-SUMMARY:Windsor Continuous Arm Chair - 1 spot left!
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250904T164603Z
-UID:68936d473d76fd426a3d4b52@squarespace.com
-DTSTART:20250913T130000Z
-DTEND:20250914T200000Z
-GEO:41.916771;-84.028924
-LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
- , 49221\, United States
-SUMMARY:Intro to Woodturning - 1 spot left!
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20250721T175021Z
 UID:656dedcefd8dad3efacba78b@squarespace.com
 DTSTART:20250919T130000Z
@@ -248,5 +228,25 @@ GEO:41.916484;-84.028795
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
 SUMMARY:Riving\, Shingling\, and Siding a Timber Frame Cabin
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250904T164603Z
+UID:68936d473d76fd426a3d4b52@squarespace.com
+DTSTART:20250913T130000Z
+DTEND:20250914T200000Z
+GEO:41.916771;-84.028924
+LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
+ , 49221\, United States
+SUMMARY:Intro to Woodturning - 1 spot left!
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250821T121637Z
+UID:66e8696a42e4f04db2f6639b@squarespace.com
+DTSTART:20250908T120000Z
+DTEND:20250914T210000Z
+GEO:41.916835;-84.028924
+LOCATION:Sam Beauford Woodshop\, 1375 N Main St\, Adrian\, MI\, 49221\, Uni
+ ted States
+SUMMARY:Windsor Continuous Arm Chair - 1 spot left!
 END:VEVENT
 END:VCALENDAR
