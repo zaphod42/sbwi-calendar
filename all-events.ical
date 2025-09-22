@@ -3,16 +3,6 @@ VERSION:2.0
 PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250721T175021Z
-UID:656dedcefd8dad3efacba78b@squarespace.com
-DTSTART:20250919T130000Z
-DTEND:20250921T210000Z
-GEO:41.916803;-84.029052
-LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
- , 49221\, United States
-SUMMARY:Introduction to Timber Frame Engineering: Design/Make/Break
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20250722T160047Z
 UID:66f70db22b399c5d5ac99069@squarespace.com
 DTSTART:20250922T120000Z
@@ -228,6 +218,16 @@ GEO:41.916484;-84.028795
 LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
  , 49221\, United States
 SUMMARY:Riving\, Shingling\, and Siding a Timber Frame Cabin
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250721T175021Z
+UID:656dedcefd8dad3efacba78b@squarespace.com
+DTSTART:20250919T130000Z
+DTEND:20250921T210000Z
+GEO:41.916803;-84.029052
+LOCATION:Sam Beauford Woodworking Institute\, 1375 N Main St\, Adrian\, MI\
+ , 49221\, United States
+SUMMARY:Introduction to Timber Frame Engineering: Design/Make/Break
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250904T164603Z
