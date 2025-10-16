@@ -2,31 +2,32 @@ GEM
   remote: https://rubygems.org/
   specs:
     base64 (0.3.0)
-    icalendar (2.11.2)
+    icalendar (2.12.0)
       base64
       ice_cube (~> 0.16)
       logger
       ostruct
     ice_cube (0.17.0)
     logger (1.7.0)
-    minitest (5.25.5)
+    minitest (5.26.0)
     mutex_m (0.3.0)
-    nokogiri (1.18.9-aarch64-linux-gnu)
+    nokogiri (1.18.10-aarch64-linux-gnu)
       racc (~> 1.4)
-    nokogiri (1.18.9-aarch64-linux-musl)
+    nokogiri (1.18.10-aarch64-linux-musl)
       racc (~> 1.4)
-    nokogiri (1.18.9-arm-linux-gnu)
+    nokogiri (1.18.10-arm-linux-gnu)
       racc (~> 1.4)
-    nokogiri (1.18.9-arm-linux-musl)
+    nokogiri (1.18.10-arm-linux-musl)
       racc (~> 1.4)
-    nokogiri (1.18.9-arm64-darwin)
+    nokogiri (1.18.10-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.18.9-x86_64-darwin)
+    nokogiri (1.18.10-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.18.9-x86_64-linux-gnu)
+    nokogiri (1.18.10-x86_64-linux-gnu)
       racc (~> 1.4)
-    nokogiri (1.18.9-x86_64-linux-musl)
+    nokogiri (1.18.10-x86_64-linux-musl)
       racc (~> 1.4)
+    openssl (3.3.1)
     ostruct (0.6.3)
     racc (1.8.1)
     rake (13.3.0)
@@ -46,6 +47,7 @@ DEPENDENCIES
   minitest
   mutex_m
   nokogiri
+  openssl (>= 3.2.2)
   rake
 
 BUNDLED WITH
