@@ -3,34 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:88c78b16-f471-4a89-b791-e6f13ca4979f
-DTSTART:20260829T120000
-DTEND:20260830T210000
-DESCRIPTION:Students will make full-size farmhouse room table that is both 
- incredibly durable and wonderfully timeless.  In two days\, you will learn
-  about the fundamentals of table construction and basic woodshop skills.  
- Instructors will expertly guide you through each step\, so all experience 
- levels are welcome. Customize the table size to fit in your home. The maxi
- mum table size we are able to accommodate is 7’ x 3’
-SUMMARY:Farmhouse Table
-URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbwmKAC
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:456ff8d9-3039-4390-88eb-8496803a051e
-DTSTART:20260829T140000
-DTEND:20260829T200000
-DESCRIPTION:Start your upholstery journey with this beginner-friendly and p
- ractical project: reupholstering a dining chair seat. This technique can b
- e applied to many types of furniture\, such as side chairs\, bar stools\, 
- ottomans\, headboards\, and more.
-SUMMARY:Upholstery Basics - Reupholster a Side Chair
-URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbwrKAC
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:847623b1-8e72-42ed-aec8-a2b7b95fa8e8
+DTSTAMP:20260829T054128Z
+UID:8395471d-f54f-46c9-be75-c8c03154bef0
 DTSTART:20260912T120000
 DTEND:20260913T210000
 DESCRIPTION:Over the course of this 2-day comprehensive class\, we will dem
@@ -43,8 +17,8 @@ SUMMARY:Learn Dovetail Joinery
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000Tbx6KAC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:934aef9c-47d5-4183-b89c-97318b5c08f1
+DTSTAMP:20260829T054128Z
+UID:898caf5a-f5ed-454c-a0b3-30b81e7ea461
 DTSTART:20260912T130000
 DTEND:20260913T200000
 DESCRIPTION:Join us at the Sam Beauford Woodworking Institute to make a uni
@@ -55,8 +29,8 @@ SUMMARY:Band Saw Boxes
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000Tbx1KAC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:880ffcab-d070-4c1f-b108-9f8ecb5ae7bb
+DTSTAMP:20260829T054128Z
+UID:05f8289e-a14b-4744-8573-176eb7a2381a
 DTSTART:20260912T140000
 DTEND:20260912T180000
 DESCRIPTION:Do you have a nearly complete project at home that’s ready fo
@@ -69,8 +43,8 @@ SUMMARY:Finishing & Milk Paint Workshop
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbxBKAS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:181d4d83-cede-4879-8038-f89d4069d802
+DTSTAMP:20260829T054128Z
+UID:35e961d9-a46d-4756-aa55-160496621cdd
 DTSTART:20260921T120000
 DTEND:20260927T210000
 DESCRIPTION:Build a Windsor Continuous Arm Chair with chair maker and SBWI 
@@ -83,8 +57,8 @@ SUMMARY:Windsor Continuous Arm Chair
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbxQKAS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:f9f43a32-502b-4b8d-8eeb-562a98c35ae6
+DTSTAMP:20260829T054128Z
+UID:5748865e-9461-4451-9301-3faf773eda73
 DTSTART:20260926T120000
 DTEND:20260926T210000
 DESCRIPTION:Following the Woodwork Career Alliance (WCA) skill standards cu
@@ -97,8 +71,8 @@ SUMMARY:Woodshop Safety
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbxVKAS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:48c66519-2d58-440d-9452-14c353f97aaa
+DTSTAMP:20260829T054128Z
+UID:bcdf05f9-c5e6-476c-b4ad-8c1ccbbc439e
 DTSTART:20260927T120000
 DTEND:20260927T210000
 DESCRIPTION:Cutting boards are the perfect project for people at the front 
@@ -108,8 +82,8 @@ SUMMARY:Long Grain Cutting Board
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbxWKAS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:9698d2d2-694f-4bcd-a001-e4cff11bddb1
+DTSTAMP:20260829T054128Z
+UID:aebc4e20-0dcc-4ecd-aeab-af1391c603d3
 DTSTART:20261010T130000
 DTEND:20261011T200000
 DESCRIPTION:This 2-day course will teach you the very fundamentals of turni
@@ -121,8 +95,8 @@ SUMMARY:Intro to Woodturning
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000cWgDKAU
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:215a079c-0909-45d2-8b13-57e03567260d
+DTSTAMP:20260829T054128Z
+UID:e0d09a4b-bf85-4056-90a9-6708bb8158f5
 DTSTART:20261012T120000
 DTEND:20261017T210000
 DESCRIPTION:This course will give students a foundational education in timb
@@ -133,8 +107,8 @@ SUMMARY:Timber Framing
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbxpKAC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:dccfc356-1871-497d-9969-bb2ee8794323
+DTSTAMP:20260829T054128Z
+UID:73219edd-552d-4c8d-9bc1-a781860cab27
 DTSTART:20261024T120000
 DTEND:20261025T210000
 DESCRIPTION:End grain cutting boards and butcher blocks are both strikingly
@@ -146,8 +120,8 @@ SUMMARY:End Grain Butcher Block Cutting Board
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbxqKAC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:85ee4151-4d4e-427a-895a-f983b7e33f7d
+DTSTAMP:20260829T054128Z
+UID:df8c3456-2bb5-472a-8f7d-9d0a6a371d0f
 DTSTART:20261024T120000
 DTEND:20261025T210000
 DESCRIPTION:Learn the basics of timber framing while creating a beautiful m
@@ -160,8 +134,8 @@ SUMMARY:Timber Frame Mailbox
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0V40000004Xi9KAE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:07c0f57b-69b3-45bc-bdb4-0f0625a4c20a
+DTSTAMP:20260829T054128Z
+UID:5a8fadee-eb35-458a-997d-aba78d01e54c
 DTSTART:20261024T140000
 DTEND:20261024T190000
 DESCRIPTION:Join us at the SBWI for an exclusive one-day Lumber Grading cou
@@ -172,8 +146,8 @@ SUMMARY:Comprehensive Lumber Grading
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbxrKAC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:67f0d133-f0dc-43f5-bfbd-89e963b4af72
+DTSTAMP:20260829T054128Z
+UID:0fd36291-659f-4a4c-b3db-1062d58a7942
 DTSTART:20261025T140000
 DTEND:20261025T200000
 DESCRIPTION:Start your upholstery journey with this beginner-friendly and p
@@ -184,8 +158,8 @@ SUMMARY:Upholstery Basics - Reupholster a Side Chair
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbxuKAC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:ade0707f-ce5b-41e8-9f6b-be7f8b93efdc
+DTSTAMP:20260829T054128Z
+UID:2abe2c17-9069-46b1-bc9b-c6c9d023e5b2
 DTSTART:20261114T140000
 DTEND:20261114T210000
 DESCRIPTION:The key to using hand tools correctly is a sharp edge - learn h
@@ -197,8 +171,8 @@ SUMMARY:Sharpening Chisels & Planes
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbxvKAC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:9448ff2a-6c24-454e-9bef-676ab7c2169f
+DTSTAMP:20260829T054128Z
+UID:6c102e10-2a71-4196-b262-6d85c58165f3
 DTSTART:20261114T140000
 DTEND:20261115T220000
 DESCRIPTION:Dive into the world of Mid Century Modern design with our Funky
@@ -209,8 +183,8 @@ SUMMARY:Mid Century Funky Footstool
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbxzKAC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:6392b069-5844-40c1-946c-bdb026bbc20c
+DTSTAMP:20260829T054128Z
+UID:1dd1401d-93e9-4777-996b-0334879086d8
 DTSTART:20261115T140000
 DTEND:20261115T210000
 DESCRIPTION:Learn scroll saw basics while creating a unique\, handcrafted o
@@ -224,8 +198,8 @@ SUMMARY:Scroll Saw Ornaments
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000Tby4KAC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:187f84a3-4d85-4c82-8263-432f4c961915
+DTSTAMP:20260829T054128Z
+UID:596fceaf-6d0b-4582-8793-a6a8a6291a0b
 DTSTART:20261212T130000
 DTEND:20261213T220000
 DESCRIPTION:Students will make full-size farmhouse room table that is both 
@@ -238,8 +212,8 @@ SUMMARY:Farmhouse Table
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000TbxlKAC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:7f6bc59b-b65f-4459-ac79-893b5c2b7342
+DTSTAMP:20260829T054128Z
+UID:372e8932-6baa-4276-a64a-4731e11d8201
 DTSTART:20261212T130000
 DTEND:20261213T220000
 DESCRIPTION:Over the course of this 2-day comprehensive class\, we will dem
@@ -252,8 +226,8 @@ SUMMARY:Learn Dovetail Joinery
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000Tby5KAC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:0aa74917-4855-4295-b4de-a4e42b0e968e
+DTSTAMP:20260829T054128Z
+UID:15d52bd2-a1ea-4b04-86a5-90fb9cc2ed55
 DTSTART:20261219T140000
 DTEND:20261219T210000
 DESCRIPTION:This course is perfect if you’re curious about woodworking an
@@ -267,8 +241,8 @@ SUMMARY:Woodworking for Teens
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0V40000005dgfKAA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:98ecc638-902d-4e86-b88d-edb5ec0e995d
+DTSTAMP:20260829T054128Z
+UID:e80f99fa-3639-43c4-97f2-fcb6b60d9582
 DTSTART:20261219T180000
 DTEND:20261219T210000
 DESCRIPTION:Having high-quality photographs of your furniture is essential 
@@ -279,8 +253,8 @@ SUMMARY:Photographing Your Work
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0V40000004Up7KAE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:c2598d9c-1fcf-493a-8601-0c9f050c4488
+DTSTAMP:20260829T054128Z
+UID:c51fae90-3186-47f8-828d-a1564cdf4372
 DTSTART:20261220T150000
 DTEND:20261220T200000
 DESCRIPTION:We’ll get that old dusty hand plane back into action in this 
@@ -290,8 +264,8 @@ SUMMARY:Hand Plane Restoration
 URL;VALUE=URI:https://ce.sbwi.edu/s/courseoffering/0P0Hu000000cWg8KAE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T093601Z
-UID:15580102-fb97-4d74-9c3d-cf28c657f063
+DTSTAMP:20260829T054128Z
+UID:0b8d3290-0569-4c4f-bc62-1851c1e154f3
 DTSTART:20270616T120000
 DTEND:20270618T210000
 DESCRIPTION:This workshop will push you to rethink the way you’ve been ta
